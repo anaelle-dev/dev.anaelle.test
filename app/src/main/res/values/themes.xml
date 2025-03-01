@@ -1,0 +1,8 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <style name="Theme.Testapp" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Testapp.Splash" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>
